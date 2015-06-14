@@ -1,0 +1,49 @@
+ Volume in drive Z is Shared
+ Volume Serial Number is 6742-4C99
+
+ Directory of Z:\Mod_Pack\mods
+
+12/06/2015  09:11 PM    <DIR>          .
+12/06/2015  09:07 PM    <DIR>          ..
+07/04/2015  03:53 AM         5,198,576 Chisel2-2.3.10.37.jar
+14/11/2014  08:14 AM            94,792 [1.7.10]Treecapitator-universal-2.0.4.jar
+12/06/2015  08:27 PM         3,397,159 Galacticraft-Planets-1.7-3.0.11.333.jar
+12/06/2015  08:10 PM           182,350 ReiMinimap-1.7.10-3.6.jar
+12/06/2015  08:11 PM           154,987 CodeChickenCore-1.7.10-1.0.1.8-universal.jar
+30/05/2015  09:37 PM        13,279,146 HardcoreEnderExpansion  MC-1.7.10  v1.8.1.jar
+12/06/2015  08:56 PM    <DIR>          ic2
+30/09/2014  06:52 PM         8,866,921 PneumaticCraft-1.7.10-1.2.9-24-universal.jar
+13/04/2015  07:54 PM           894,430 ProjectRed-1.7.10-4.5.16.77-Base.jar
+12/06/2015  08:01 PM         2,522,393 appliedenergistics2-rv2-beta-33.jar
+12/06/2015  08:39 PM           196,807 Mantle-1.7.10-0.3.2.jar
+12/06/2015  08:32 PM         2,598,576 OpenBlocks-1.7.10-1.4.3.jar
+04/04/2015  09:28 PM         2,141,043 ThaumicTinkerer-2.5-1.7.10-164.jar
+03/07/2014  11:37 AM           294,863 roguelike-1.7.10-1.3.4.jar
+12/06/2015  08:35 PM         1,411,878 bdlib-1.8.1.87-mc1.7.10.jar
+21/07/2014  09:52 PM         4,083,148 witchery-1.7.10-0.20.0.jar
+12/06/2015  09:11 PM               102 tree.txt
+07/06/2015  12:36 PM         2,419,545 buildcraft-7.0.8.jar
+12/06/2015  08:28 PM            61,431 MicdoodleCore-1.7-3.0.11.333.jar
+12/06/2015  08:03 PM         4,066,035 EnderIO-1.7.10-2.2.8.381.jar
+12/06/2015  08:56 PM    <DIR>          1.7.10
+01/12/2014  09:55 AM         1,271,151 EnhancedPortals_1.7.10-universal-3.0.9.jar
+04/06/2015  11:30 PM         9,438,642 BloodMagic-1.7.10-1.3.3-4.jar
+07/01/2015  02:45 PM         5,264,981 TConstruct-1.7.10-1.8.2a.jar
+12/06/2015  08:32 PM           840,166 OpenPeripheral-1.7.10-AIO-4.jar
+04/04/2015  06:48 PM           771,107 BigReactors-0.4.3A.jar
+12/06/2015  08:02 PM         4,495,671 industrialcraft-2-2.1.483-experimental.jar
+09/07/2014  12:08 PM           449,021 NotEnoughItems-1.7.10-1.0.2.15-universal.jar
+14/05/2015  10:01 PM         5,713,462 BiomesOPlenty-1.7.10-2.1.0.1283-universal.jar
+12/06/2015  08:02 PM            38,004 Factorization-1.7.10-0.8.94.jar
+12/06/2015  08:27 PM        11,096,863 GalacticraftCore-1.7-3.0.11.333.jar
+25/05/2015  04:10 PM         1,284,300 pressure-1.2.0.101-mc1.7.10.jar
+13/04/2015  03:30 AM         5,249,991 BiblioCraft[v1.10.3][MC1.7.10].jar
+12/06/2015  08:37 PM         2,818,840 RandomThings-2.2.4.jar
+12/06/2015  08:32 PM           813,211 OpenModsLib-1.7.10-0.7.3.jar
+12/06/2015  08:18 PM         1,050,489 CoFHCore-[1.7.10]3.0.2-262.jar
+18/04/2015  11:38 PM            60,626 denseores-1.6.2.jar
+17/02/2015  08:48 AM        12,565,807 Thaumcraft-1.7.10-4.2.3.5.jar
+12/06/2015  08:02 PM            38,004 extrautilities-1.1.0b.jar
+12/06/2015  08:32 PM         1,360,906 ComputerCraft1.73.jar
+              38 File(s)    116,485,424 bytes
+               4 Dir(s)  156,872,032,256 bytes free
