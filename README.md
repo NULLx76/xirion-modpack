@@ -1,7 +1,9 @@
 # Xirion's Modpack
 Hosted on TechnicLauncher: http://www.technicpack.net/modpack/xirions-modpack.673044
 
-Mods used in this pack
+License is in the [License.md](https://github.com/victorheld/xirion-modpack/blob/master/License.md)
+
+Mods used in this pack:
 
     BiblioCraft
     BigReactors
