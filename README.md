@@ -1,7 +1,7 @@
 # Xirion's Modpack
 Hosted on TechnicLauncher: http://www.technicpack.net/modpack/xirions-modpack.673044
 
-License is in the [License.md](https://github.com/victorheld/xirion-modpack/blob/master/License.md)
+Licenses are in the [License.md](https://github.com/victorheld/xirion-modpack/blob/master/License.md) file.
 
 Mods used in this pack:
 
